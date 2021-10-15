@@ -3,7 +3,7 @@ A repository for top fuzzing works in the literature.
 
 ## Notice from Author
 
-I did not co-author, and do not own the rights to, any of the papers in this repository. If you have questions about a particular work, I recommend you reach out to one of the authors directly. Otherwise, feel free to report issues / create PRs if you see any blatent errors in my summaries.
+I did not co-author, and do not own the rights to, any of the papers in this repository. If you have questions about a particular work, I recommend you reach out to one of the authors directly. Otherwise, feel free to report issues / create PRs if you see any blatent errors in my summaries, or if you think I missed some works.
 
 ## List of Works
 
