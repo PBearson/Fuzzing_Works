@@ -34,7 +34,21 @@ I did not co-author, and do not own the rights to, any of the papers in this rep
 
 * **Fuzzing with Code Fragments** (2012)
 * **Optimizing seed selection for fuzzing** (2014)
-
+* **Constraint-guided Directed Greybox Fuzzing** (2021)
+* **ICSFuzz: Manipulating I/Os and Repurposing Binary Code to Enable Instrumented Fuzzing in ICS Control Applications** (2021)
+* **Breaking Through Binaries: Compiler-quality Instrumentation for Better Binary-only Fuzzing** (2021)
+* **ParmeSan: Sanitizer-guided Greybox Fuzzing** (2020)
+* **FuzzGen: Automatic Fuzzer Generation** (2020)
+* **Fuzzing Error Handling Code using Context-Sensitive Software Fault Injection** (2020)
+* **Analysis of DTLS Implementations Using Protocol State Fuzzing** (2020)
+* **FANS: Fuzzing Android Native System Services via Automated Interface Analysis** (2020)
+* **FuzzGuard: Filtering out Unreachable Inputs in Directed Grey-box Fuzzing through Deep Learning** (2020)
+* **GREYONE: Data Flow Sensitive Fuzzing** (2020)
+* **MoonShine: Optimizing OS Fuzzer Seed Selection with Trace Distillation** (2018)
+* **QSYM : A Practical Concolic Execution Engine Tailored for Hybrid Fuzzing** (2018)
+* **kAFL: Hardware-Assisted Feedback Fuzzing for OS Kernels** (2017)
+* **OSS-Fuzz - Google's continuous fuzzing service for open source software** (2017)
+ 
 ### ISOC Network and Distributed System Security Symposium (NDSS)
 
 * **Reinforcement Learning-based Hierarchical Seed Scheduling for Greybox Fuzzing** (2021)
