@@ -12,3 +12,6 @@ I did not co-author, and do not own the rights to, any of the papers in this rep
 * **CollAFL: Path Sensitive Fuzzing** (S&P 2018): TODO.
 * **Directed Greybox Fuzzing** (CCS 2017): TODO.
 * **Fuzzing with Code Fragments** (USENIX 2012): TODO.
+* **Optimizing seed selection for fuzzing** (USENIX 2014): TODO.
+* **Violating assumptions with fuzzing** (S&P 2005): TODO.
+* **Skyfire: Data-driven seed generation for fuzzing** (S&P 2017): TODO.
