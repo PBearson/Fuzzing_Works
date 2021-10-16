@@ -9,21 +9,22 @@ I did not co-author, and do not own the rights to, any of the papers in this rep
 
 ### IEEE Symposium on Security and Privacy (S&P)
 
-* **Full-Speed Fuzzing: Reducing Fuzzing Overhead through Coverage-Guided Tracing** (S&P 2019): TODO.
-* **T-Fuzz: Fuzzing by Program Transformation** (S&P 2018): TODO.
-* **CollAFL: Path Sensitive Fuzzing** (S&P 2018): TODO.
-* **Violating assumptions with fuzzing** (S&P 2005): TODO.
-* **Skyfire: Data-driven seed generation for fuzzing** (S&P 2017): TODO.
+* **Full-Speed Fuzzing: Reducing Fuzzing Overhead through Coverage-Guided Tracing** (2019)
+* **T-Fuzz: Fuzzing by Program Transformation** (2018)
+* **CollAFL: Path Sensitive Fuzzing** (2018)
+* **Violating assumptions with fuzzing** (2005)
+* **Skyfire: Data-driven seed generation for fuzzing** (2017)
 
 ### ACM Conference on Computer and Communications Security (CCS)
 
-* **Directed Greybox Fuzzing** (CCS 2017): TODO.
+* **Directed Greybox Fuzzing** (2017)
 
 ### USENIX Security Symposium
 
-* **Fuzzing with Code Fragments** (USENIX 2012): TODO.
-* **Optimizing seed selection for fuzzing** (USENIX 2014): TODO.
+* **Fuzzing with Code Fragments** (2012)
+* **Optimizing seed selection for fuzzing** (2014)
 
 ### ISOC Network and Distributed System Security Symposium (NDSS)
 
-* **Reinforcement Learning-based Hierarchical Seed Scheduling for Greybox Fuzzing** (NDSS 2021): TODO.
+* **Reinforcement Learning-based Hierarchical Seed Scheduling for Greybox Fuzzing** (2021)
+* **HFL: Hybrid Fuzzing on the Linux Kernel** (2020)
