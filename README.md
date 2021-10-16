@@ -28,3 +28,8 @@ I did not co-author, and do not own the rights to, any of the papers in this rep
 
 * **Reinforcement Learning-based Hierarchical Seed Scheduling for Greybox Fuzzing** (2021)
 * **HFL: Hybrid Fuzzing on the Linux Kernel** (2020)
+* **Not All Coverage Measurements Are Equal: Fuzzing by Coverage Accounting for Input Prioritization** (2020)
+* **HotFuzz: Discovering Algorithmic Denial-of-Service Vulnerabilities Through Guided Micro-Fuzzing** (2020)
+* **REDQUEEN: Fuzzing with Input-to-State Correspondence** (2019)
+* **VUzzer: Application-aware Evolutionary Fuzzing** (2017)
+* **Driller:  Augmenting Fuzzing Through Selective Symbolic Execution** (2016)
