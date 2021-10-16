@@ -1,4 +1,4 @@
-# Fuzzing_Works
+# Fuzzing Works
 A repository for top fuzzing works in the literature.
 
 ## General Notice
