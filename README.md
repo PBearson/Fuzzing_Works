@@ -23,16 +23,16 @@ I did not co-author, and do not own the rights to, any of the papers in this rep
 
 ### ACM Conference on Computer and Communications Security (CCS)
 
+* **FREEDOM: Engineering a State-of-the-Art DOM Fuzzer** (2020)
+* **Matryoshka: fuzzing deeply nested branches** (2019)
+* **Intriguer: Field-Level Constraint Solving for Hybrid Fuzzing** (2019)
+* **Evaluating Fuzz Testing** (2018)
+* **Hawkeye: Towards a Desired Directed Grey-box Fuzzer** (2018)
 * **Directed Greybox Fuzzing** (2017)
 * **SemFuzz: Semantics-based Automatic Generation of Proof-of-Concept Exploits** (2017)
 * **SlowFuzz: Automated Domain-Independent Detection of Algorithmic Complexity Vulnerabilities** (2017)
 * **Designing New Operating Primitives to Improve Fuzzing Performance** (2017)
 * **IMF: Inferred Model-based Fuzzer** (2017)
-* **Evaluating Fuzz Testing** (2018)
-* **Hawkeye: Towards a Desired Directed Grey-box Fuzzer** (2018)
-* **Matryoshka: fuzzing deeply nested branches** (2019)
-* **Intriguer: Field-Level Constraint Solving for Hybrid Fuzzing** (2019)
-* **FREEDOM: Engineering a State-of-the-Art DOM Fuzzer** (2020)
 * **Coverage-based Greybox Fuzzing as Markov Chain** (2016)
 * **Systematic Fuzzing and Testing of TLS Libraries** (2016)
 
