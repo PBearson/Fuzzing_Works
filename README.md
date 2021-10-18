@@ -18,7 +18,6 @@ I did not co-author, and do not own the rights to, any of the papers in this rep
 * **T-Fuzz: Fuzzing by Program Transformation** (2018)
 * **ProFuzzer: On-the-fly Input Type Probing for Better Zero-day Vulnerability Discovery** (2018)
 * **CollAFL: Path Sensitive Fuzzing** (2018)
-* **CollAFL: Path Sensitive Fuzzing** (2018)
 * **Skyfire: Data-driven seed generation for fuzzing** (2017)
 
 ### ACM Conference on Computer and Communications Security (CCS)
