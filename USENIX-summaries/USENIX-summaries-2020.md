@@ -27,3 +27,15 @@ Liu, B., Zhang, C., Gong, G., Zeng, Y., Ruan, H., & Zhuge, J. (2020). _FANS_: Fu
 TODO.
 
 <hr/>
+
+Zong, P., Lv, T., Wang, D., Deng, Z., Liang, R., & Chen, K. (2020). Fuzzguard: Filtering out unreachable inputs in directed grey-box fuzzing through deep learning. In 29th _USENIX_ Security Symposium (_USENIX_ Security 20) (pp. 2255-2269).
+
+TODO.
+
+<hr/>
+
+Gan, S., Zhang, C., Chen, P., Zhao, B., Qin, X., Wu, D., & Chen, Z. (2020). _GREYONE_: Data Flow Sensitive Fuzzing. In 29th _USENIX_ Security Symposium (_USENIX_ Security 20) (pp. 2577-2594).
+
+TODO.
+
+<hr/>
