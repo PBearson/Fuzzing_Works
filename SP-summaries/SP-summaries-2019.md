@@ -1,5 +1,5 @@
 S. Nagy and M. Hicks, "Full-Speed Fuzzing: Reducing Fuzzing Overhead through Coverage-Guided Tracing," 2019 IEEE Symposium on Security and Privacy (SP), 2019, pp. 787-802, doi: 10.1109/SP.2019.00069.
 
-TODO
+SUMMARY: Coverage-guided fuzz testing consists of 1) test case generation; 2) code coverage tracing; 3) crash triage. In practice, code coverage tracing incurs a significant portition of the entire fuzzing overhead. Unfortunately, the majority of test cases do not increase fuzz testing, especially over time, and thus the effort required to trace through the code coverage is often highly wasteful. In this paper, the authors propose UnTracer, a strategy for coverage-guided tracing that reduces the overhead of coverage-guided fuzzers. Using static binary instrumentation, the target binary is transformed so that self-reports when a test case increases coverage. Following the self-report, the binary is traced with the interesting test case in order to determine the code coverage. Since code coverage tracing only occurs for newly discovered code coverage, the overhead is massively improved from previous efforts such as AFL-Clang (36%), AFL-QEMU (612%), and AFL-Dyninst (518%), and UnTracer approaches an overhead of 0% after 24 hours of fuzzing. 
 
 <hr/>
