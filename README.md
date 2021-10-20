@@ -59,5 +59,7 @@ I did not co-author, and do not own the rights to, any of the papers in this rep
 * **Not All Coverage Measurements Are Equal: Fuzzing by Coverage Accounting for Input Prioritization** (2020)
 * **HotFuzz: Discovering Algorithmic Denial-of-Service Vulnerabilities Through Guided Micro-Fuzzing** (2020)
 * **REDQUEEN: Fuzzing with Input-to-State Correspondence** (2019)
+* **IoTFuzzer: Discovering Memory Corruptions in IoT Through App-based Fuzzing** (2018)
+* **What You Corrupt Is Not What You Crash: Challenges in Fuzzing Embedded Devices** (2018)
 * **VUzzer: Application-aware Evolutionary Fuzzing** (2017)
 * **Driller:  Augmenting Fuzzing Through Selective Symbolic Execution** (2016)
