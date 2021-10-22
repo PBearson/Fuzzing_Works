@@ -18,6 +18,6 @@ SUMMARY: Generation-based fuzzing relies on a grammar describing input formats t
 
 S. Gan et al., "CollAFL: Path Sensitive Fuzzing," 2018 IEEE Symposium on Security and Privacy (SP), 2018, pp. 679-696, doi: 10.1109/SP.2018.00040.
 
-SUMMARY: TODO
+SUMMARY: Popular coverage-guided fuzzers suffer from two issues. First, in fuzzers which track edge coverage, edge collisions are a known problem due to the way that edge coverage is calculated; in some applications, up to 75% of edges may collide with others. Second, fuzzers rarely utilize code coverage information to directly drive fuzzing towards non-explored paths. In this paper, the authors propose CollAFL, which rectifies these issues. To solve the edge collision problem, CollAFL analyzes the control flow graph of the application to get a list of known edges, and employs a edge hash scheme with low instrumentation cost and zero collisions. To target non-explored paths, CollAFL proposes three new seed selection policied: 1) untouched-neighbor-branch guided (prioritize seeds with more untouched neighbors); 2) untouched-neighbor-descendant guided (prioritize seeds with untouched neighbors that have more descendants); 3) memory-access guided policy (prioritize seeds with more memory access operations). When compared to AFL, CollAFL covered 20% more program paths, 320% more unique crashes, and 260% more bugs in the LAVA-M dataset. CollAFL also found 157 bugs in 24 applications, generating 95 CVEs.
 
 <hr/>
