@@ -6,7 +6,7 @@ SUMMARY: File systems are one of the most basic services of an OS. Most conventi
 
 H. Peng, Y. Shoshitaishvili and M. Payer, "T-Fuzz: Fuzzing by Program Transformation," 2018 IEEE Symposium on Security and Privacy (SP), 2018, pp. 697-710, doi: 10.1109/SP.2018.00056.
 
-SUMMARY: TODO
+SUMMARY: Mutational fuzzing is limited by its coverage. Programs may contain complex sanity checks, e.g., checksums, hashes, or magic values, which severely limit code coverage. In this paper, the authors propose Transformational Fuzzing, and a prototype called T-Fuzz. When the fuzzer gets stuck on some sanity check in the program, the fuzzer invokes a program transformer that detects and removes the sanity check from the program. This allows the fuzzer to explore the code paths that were previously protected by those checks. If bugs are found, then a post-processing symbolic execution-based analysis is used which removes false positives. T-Fuzz found bugs 166 binaries out of 296 in the DARPA CGC dataset, and it found 3 new bugs in real-world applications.
 
 <hr/>
 
