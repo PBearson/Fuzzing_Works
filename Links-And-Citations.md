@@ -32,4 +32,9 @@ Note: Last updated October 2021.
 | [FIFUZZ](https://www.usenix.org/conference/usenixsecurity20/presentation/jiang) | USENIX | 2020 | 8 |
 | [DTLS-Fuzzer](https://www.usenix.org/conference/usenixsecurity20/presentation/fiterau-brostean) | USENIX | 2020 | 20 |
 | [FANS](https://www.usenix.org/conference/usenixsecurity20/presentation/liu) | USENIX | 2020 | 11 |
-| [Fuzzguard](https://www.usenix.org/conference/usenixsecurity20/presentation/zong) | USENIX | 2020 | 20
+| [Fuzzguard](https://www.usenix.org/conference/usenixsecurity20/presentation/zong) | USENIX | 2020 | 20 |
+| [GREYONE](https://www.usenix.org/conference/usenixsecurity20/presentation/gan) | USENIX | 2020 | 36 |
+| [MoonShine](usenix.org/conference/usenixsecurity18/presentation/pailoor) | USENIX | 2018 | 62 |
+| [QSYM](https://www.usenix.org/conference/usenixsecurity18/presentation/yun) | USENIX | 2018 | 221 |
+| [kAFL](https://www.usenix.org/conference/usenixsecurity17/technical-sessions/presentation/schumilo) | USENIX | 2017 | 150 |
+| [OSS-Fuzz](https://www.usenix.org/conference/usenixsecurity17/technical-sessions/presentation/serebryany) | USENIX | 2017 | 35 |
