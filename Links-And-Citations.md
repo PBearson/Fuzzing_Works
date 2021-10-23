@@ -17,3 +17,7 @@ Note: Last updated October 2021.
 | [Intriguer](https://dl.acm.org/doi/10.1145/3319535.3354249) | CCS | 2019 | 16 |
 | [Evaluating Fuzz Testing](https://dl.acm.org/doi/10.1145/3243734.3243804) | CCS | 2018 | 255 |
 | [Hawkeye](https://dl.acm.org/doi/10.1145/3243734.3243849) | CCS | 2018 | 96 |
+| [AFLGo](https://dl.acm.org/doi/10.1145/3133956.3134020) | CCS | 2017 | 333 |
+| [SemFuzz](https://dl.acm.org/doi/10.1145/3133956.3134085) | CCS | 2017 | 64 |
+| [SlowFuzz](https://dl.acm.org/doi/10.1145/3133956.3134073) | CCS | 2017 | 115 |
+| [Perf-fuzz](https://dl.acm.org/doi/10.1145/3133956.3134046) | CCS | 2017 | 68 |
