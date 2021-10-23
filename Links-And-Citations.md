@@ -1,6 +1,6 @@
 Note: Last updated October 2021.
 
-| Paper | Venue | Year Published | Citations |
+| Paper | Venue | Year | Citations |
 | ----- | ----- | -------------- | --------- |
 | [NTFuzz](https://ieeexplore.ieee.org/document/9519448/) | S&P | 2021 | 1 |
 | [StochFuzz](https://ieeexplore.ieee.org/document/9519407) | S&P | 2021 | 1 |
@@ -12,3 +12,8 @@ Note: Last updated October 2021.
 | [Profuzzer](https://ieeexplore.ieee.org/document/8835384) | S&P | 2018 | 55 |
 | [CollAFL](https://ieeexplore.ieee.org/document/8418631) | S&P | 2018 | 220 |
 | [Skyfire](https://ieeexplore.ieee.org/document/7958599) | S&P | 2017 | 190 |
+| [FreeDom](https://dl.acm.org/doi/10.1145/3372297.3423340) | CCS | 2020 | 5 |
+| [Matryoshka](https://dl.acm.org/doi/10.1145/3319535.3363225) | CCS | 2019 | 33 |
+| [Intriguer](https://dl.acm.org/doi/10.1145/3319535.3354249) | CCS | 2019 | 16 |
+| [Evaluating Fuzz Testing](https://dl.acm.org/doi/10.1145/3243734.3243804) | CCS | 2018 | 255 |
+| [Hawkeye](https://dl.acm.org/doi/10.1145/3243734.3243849) | CCS | 2018 | 96 |
