@@ -38,3 +38,9 @@ Note: Last updated October 2021.
 | [QSYM](https://www.usenix.org/conference/usenixsecurity18/presentation/yun) | USENIX | 2018 | 221 |
 | [kAFL](https://www.usenix.org/conference/usenixsecurity17/technical-sessions/presentation/schumilo) | USENIX | 2017 | 150 |
 | [OSS-Fuzz](https://www.usenix.org/conference/usenixsecurity17/technical-sessions/presentation/serebryany) | USENIX | 2017 | 35 |
+| [AFL-HIER](https://www.ndss-symposium.org/ndss-paper/reinforcement-learning-based-hierarchical-seed-scheduling-for-greybox-fuzzing/) | NDSS | 2021 | 0 |
+| [HFL](https://www.ndss-symposium.org/ndss-paper/hfl-hybrid-fuzzing-on-the-linux-kernel/) | NDSS | 2020 | 16 |
+| [TortoiseFuzz](https://www.ndss-symposium.org/ndss-paper/not-all-coverage-measurements-are-equal-fuzzing-by-coverage-accounting-for-input-prioritization/) | NDSS | 2020 | 22 |
+| [HotFuzz](https://www.ndss-symposium.org/ndss-paper/hotfuzz-discovering-algorithmic-denial-of-service-vulnerabilities-through-guided-micro-fuzzing/) | NDSS | 2020 | 11 |
+| [REDQUEEN](https://www.ndss-symposium.org/ndss-paper/redqueen-fuzzing-with-input-to-state-correspondence/) | NDSS | 2019 | 117
+| [IOTFUZZER](ndss-symposium.org/wp-content/uploads/2018/02/ndss2018_01A-1_Chen_paper.pdf) | NDSS | 2018 | 176 |
