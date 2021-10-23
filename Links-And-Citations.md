@@ -24,3 +24,12 @@ Note: Last updated October 2021.
 | [IMF](https://dl.acm.org/doi/10.1145/3133956.3134103) | CCS | 2017 | 87 |
 | [AFLFast](https://dl.acm.org/doi/10.1145/2976749.2978428) | CCS | 2016 | 495 |
 | [TLS-Attacker](https://dl.acm.org/doi/10.1145/2976749.2978411) | CCS | 2016 | 85 |
+| [CAFL](https://www.usenix.org/conference/usenixsecurity21/presentation/lee-gwangmu) | USENIX | 2021 | 1 |
+| [ICSFuzz](https://www.usenix.org/conference/usenixsecurity21/presentation/tychalas) | USENIX | 2021 | 0 |
+| [ZAFL](https://www.usenix.org/conference/usenixsecurity21/presentation/nagy) | USENIX | 2021 | 3 |
+| [ParmeSan](https://www.usenix.org/conference/usenixsecurity20/presentation/osterlund) | USENIX | 2020 | 34 |
+| [Fuzzgen](https://www.usenix.org/conference/usenixsecurity20/presentation/ispoglou) | USENIX | 2020 | 28 |
+| [FIFUZZ](https://www.usenix.org/conference/usenixsecurity20/presentation/jiang) | USENIX | 2020 | 8 |
+| [DTLS-Fuzzer](https://www.usenix.org/conference/usenixsecurity20/presentation/fiterau-brostean) | USENIX | 2020 | 20 |
+| [FANS](https://www.usenix.org/conference/usenixsecurity20/presentation/liu) | USENIX | 2020 | 11 |
+| [Fuzzguard](https://www.usenix.org/conference/usenixsecurity20/presentation/zong) | USENIX | 2020 | 20
