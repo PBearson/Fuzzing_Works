@@ -47,3 +47,20 @@ Note: Last updated October 2021.
 | [WYCINWYC](https://www.ndss-symposium.org/wp-content/uploads/2018/02/ndss2018_01A-4_Muench_paper.pdf) | NDSS | 2018 | 116 |
 | [VUzzer](https://www.ndss-symposium.org/ndss2017/ndss-2017-programme/vuzzer-application-aware-evolutionary-fuzzing/) | NDSS | 2017 | 443 |
 | [Driller](https://www.ndss-symposium.org/wp-content/uploads/2017/09/driller-augmenting-fuzzing-through-selective-symbolic-execution.pdf) | NDSS | 2016 | 680 |
+
+<hr/>
+
+Top 10 (by citations):
+
+| Paper | Venue | Year | Citations |
+| ----- | ----- | -------------- | --------- |
+| [Driller](https://www.ndss-symposium.org/wp-content/uploads/2017/09/driller-augmenting-fuzzing-through-selective-symbolic-execution.pdf) | NDSS | 2016 | 680 |
+| [AFLFast](https://dl.acm.org/doi/10.1145/2976749.2978428) | CCS | 2016 | 495 |
+| [VUzzer](https://www.ndss-symposium.org/ndss2017/ndss-2017-programme/vuzzer-application-aware-evolutionary-fuzzing/) | NDSS | 2017 | 443 |
+| [AFLGo](https://dl.acm.org/doi/10.1145/3133956.3134020) | CCS | 2017 | 333 |
+| [Evaluating Fuzz Testing](https://dl.acm.org/doi/10.1145/3243734.3243804) | CCS | 2018 | 255 |
+| [QSYM](https://www.usenix.org/conference/usenixsecurity18/presentation/yun) | USENIX | 2018 | 221 |
+| [CollAFL](https://ieeexplore.ieee.org/document/8418631) | S&P | 2018 | 220 |
+| [Skyfire](https://ieeexplore.ieee.org/document/7958599) | S&P | 2017 | 190 |
+| [T-Fuzz](https://ieeexplore.ieee.org/document/6823894) | S&P | 2018 | 189 |
+| [IOTFUZZER](ndss-symposium.org/wp-content/uploads/2018/02/ndss2018_01A-1_Chen_paper.pdf) | NDSS | 2018 | 176 |
