@@ -6,7 +6,7 @@ SUMMARY: Directed greybox fuzzing (DGF) uses directedness from crash reproductio
 
 Tychalas, D., Benkraouda, H., & Maniatakos, M. (2021). ICSFuzz: Manipulating I/Os and Repurposing Binary Code to Enable Instrumented Fuzzing in {ICS} Control Applications. In 30th _USENIX_ Security Symposium (_USENIX_ Security 21).
 
-TODO.
+SUMMARY: Industrial control systems (ICS) are responsible for moderating a wide range of industrial sectors and critical infrastructures. Disruption of ICS operation may cause severe complications and even human casualties. In this paper, the authors propose ICSFuzz, a novel approach for security evaluation of PLC control applications through fuzzing. The authors have performed a manual research step to evaluate the different languages of IEC 61131-3, the standard in which many control applications are initially written in. Following this framework, the auhots have developed a fuzzing framework to discover vulnerabilities in programmable logic controller (PLC) applications and their host software, such as Codesys.
 
 <hr/>
 
