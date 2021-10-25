@@ -1,5 +1,5 @@
 Stephens, N., Grosen, J., Salls, C., Dutcher, A., Wang, R., Corbetta, J., Shoshitaishvili, Y., Krügel, C., & Vigna, G. (2016). Driller: Augmenting Fuzzing Through Selective Symbolic Execution. NDSS.
 
-TODO
+SUMMARY: Current techniques for finding memory corruption bugs are static analysis, dynamic analysis, and concolic analysis (i.e., symbolic execution). These techniqus have disadvantages and tend to only find "shallow bugs": static analysis suffers from "false positives" and does not produce actionable input; dynamic analysis requires input test cases to drive execution; and concolic analysis is prone to "path explosion", limiting code coverage. In this paper, the authors propose Driller, a novel vulnerability excavation system that combines a genetic input-mutating fuzzer with a selective concolic execution engine to identify deep bugs in binaries. When Driller's fuzzing engine gets stuck on complex checks (i.e., requiring a specific input), it invokes the concolic execution, which uses a constraint-solving engine to identify inputs that lead to new paths. Driller then switches back to the fuzzing engine. Driller was evaluated on 126 applications released in the DARPA Cyber Grand Challenge; it was able to identify as many vulnerabilities as the top-scoring team from that event.
 
 <hr/>
