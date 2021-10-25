@@ -1,5 +1,5 @@
 Rawat, S., Jain, V., Kumar, A., Cojocar, L., Giuffrida, C., & Bos, H. (2017). VUzzer: Application-aware Evolutionary Fuzzing. NDSS.
 
-TODO.
+SUMMARY: Existing fuzzers have been effective mainly in discovering superficial bugs. State-of-the-art fuzzers like AFL are application-agnostic and employ blind mutation strategies. While symbolic and concolic execution show promising results, their application to arbitrarily large programs remains a challenge. In this paper, the authors propose VUzzer, an application-aware evolutionary fuzzing strategy. VUzzer employs a feedback loop based on control and data-flow application features while avoiding symbolic execution. Control-flow features include detection of error-handling blocks and the reachability of nested blocks, with respect to the applcation's control flow graph (CFG). Data-flow features include determining branch constraints by instrumenting _cmp_ instructions. VUzzer was evaluated on multiple datasets and outperformed AFL by finding more crashes with fewer inputs.
 
 <hr/>
