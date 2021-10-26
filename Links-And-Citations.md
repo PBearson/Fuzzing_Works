@@ -8,7 +8,7 @@ Note: Last updated October 2021.
 | [DIE](https://ieeexplore.ieee.org/document/9152648) | S&P | 2020 | 13 |
 | [UnTracer](https://ieeexplore.ieee.org/document/8835316) | S&P | 2019 | 56 |
 | [JANUS](https://ieeexplore.ieee.org/document/8835267) | S&P | 2018 | 43 |
-| [T-Fuzz](https://ieeexplore.ieee.org/document/6823894) | S&P | 2018 | 189 |
+| [T-Fuzz](https://ieeexplore.ieee.org/document/8418632) | S&P | 2018 | 189 |
 | [Profuzzer](https://ieeexplore.ieee.org/document/8835384) | S&P | 2018 | 55 |
 | [CollAFL](https://ieeexplore.ieee.org/document/8418631) | S&P | 2018 | 220 |
 | [Skyfire](https://ieeexplore.ieee.org/document/7958599) | S&P | 2017 | 190 |
@@ -62,5 +62,5 @@ Top 10 (by citations):
 | [QSYM](https://www.usenix.org/conference/usenixsecurity18/presentation/yun) | USENIX | 2018 | 221 |
 | [CollAFL](https://ieeexplore.ieee.org/document/8418631) | S&P | 2018 | 220 |
 | [Skyfire](https://ieeexplore.ieee.org/document/7958599) | S&P | 2017 | 190 |
-| [T-Fuzz](https://ieeexplore.ieee.org/document/6823894) | S&P | 2018 | 189 |
+| [T-Fuzz](https://ieeexplore.ieee.org/document/8418632) | S&P | 2018 | 189 |
 | [IOTFUZZER](ndss-symposium.org/wp-content/uploads/2018/02/ndss2018_01A-1_Chen_paper.pdf) | NDSS | 2018 | 176 |
