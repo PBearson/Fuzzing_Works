@@ -1,5 +1,5 @@
-Wen Xu, Soyeon Park, and Taesoo Kim. 2020. FREEDOM: Engineering a State-of-the-Art DOM Fuzzer. In Proceedings of the 2020 ACM SIGSAC Conference on Computer and Communications Security (CCS '20). Association for Computing Machinery, New York, NY, USA, 971–986.
+Wen Xu, Soyeon Park, and Taesoo Kim. 2020. FreeDOM: Engineering a State-of-the-Art DOM Fuzzer. In Proceedings of the 2020 ACM SIGSAC Conference on Computer and Communications Security (CCS '20). Association for Computing Machinery, New York, NY, USA, 971–986.
 
-TODO
+SUMMARY: A document object model (DOM) is a core component of every modern web browser. To fuzz a DOM engine, the fuzzer must generate an input with detailed specifications (i.e., an HTML document). Recent DOM fuzzers use static grammars which produce syntactically valid HTML documents but do not capture data dependencies, which results in semantic errors. In this paper, the authors propose FreeDOM, an end-to-end DOM fuzzing framework. FreeDOM can describe HTML documents using a custom intermediate representation called FD-IR, which can generate new documents, fully mutate existing documents, and merge documents together. FreeDOM preserves context information to avoid semantic vioations. FreeDOM supports both document generation and coverage-guided mutation. The authors of FreeDOM found 24 bugs in Apple Safari, Mozilla Firefox, and Google Chrome, resulting in 10 CVEs. Compared to the coverage-guided mutation apporach, the generative approach covered slightly fewer code blocks but found more unique crashes in 24 hours.
 
 <hr/>
