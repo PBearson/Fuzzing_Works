@@ -36,6 +36,7 @@ Note: Last updated November 2021.
 | [FANS](https://www.usenix.org/conference/usenixsecurity20/presentation/liu) | USENIX | 2020 | 11 |
 | [Fuzzguard](https://www.usenix.org/conference/usenixsecurity20/presentation/zong) | USENIX | 2020 | 20 |
 | [GREYONE](https://www.usenix.org/conference/usenixsecurity20/presentation/gan) | USENIX | 2020 | 36 |
+| [GRIMOIRE](https://www.usenix.org/conference/usenixsecurity19/presentation/blazytko) | USENIX | 2019 | 39 |
 | [MoonShine](usenix.org/conference/usenixsecurity18/presentation/pailoor) | USENIX | 2018 | 62 |
 | [QSYM](https://www.usenix.org/conference/usenixsecurity18/presentation/yun) | USENIX | 2018 | 221 |
 | [kAFL](https://www.usenix.org/conference/usenixsecurity17/technical-sessions/presentation/schumilo) | USENIX | 2017 | 150 |
