@@ -49,7 +49,7 @@ I did not co-author, and do not own the rights to, any of the papers in this rep
 * **FANS: Fuzzing Android Native System Services via Automated Interface Analysis** (2020)
 * **FuzzGuard: Filtering out Unreachable Inputs in Directed Grey-box Fuzzing through Deep Learning** (2020)
 * **GREYONE: Data Flow Sensitive Fuzzing** (2020)
-* **Grimoire: Synthesizing Structure while Fuzzing**
+* **Grimoire: Synthesizing Structure while Fuzzing** (2019)
 * **MoonShine: Optimizing OS Fuzzer Seed Selection with Trace Distillation** (2018)
 * **QSYM : A Practical Concolic Execution Engine Tailored for Hybrid Fuzzing** (2018)
 * **kAFL: Hardware-Assisted Feedback Fuzzing for OS Kernels** (2017)
