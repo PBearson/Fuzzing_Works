@@ -8,6 +8,7 @@ Note: Last updated November 2021.
 | [DIE](https://ieeexplore.ieee.org/document/9152648) | S&P | 2020 | 13 |
 | [UnTracer](https://ieeexplore.ieee.org/document/8835316) | S&P | 2019 | 56 |
 | [Profuzzer](https://ieeexplore.ieee.org/document/8835384) | S&P | 2019 | 55 |
+| [NEUZZ](https://ieeexplore.ieee.org/abstract/document/8835342) | S&P | 2019 | 105 |
 | [JANUS](https://ieeexplore.ieee.org/document/8835267) | S&P | 2018 | 43 |
 | [T-Fuzz](https://ieeexplore.ieee.org/document/8418632) | S&P | 2018 | 189 |
 | [Angora](https://ieeexplore.ieee.org/abstract/document/8418633) | S&P | 2018 | 271 |
