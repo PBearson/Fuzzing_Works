@@ -14,10 +14,10 @@ I did not co-author, and do not own the rights to, any of the papers in this rep
 * **IJON: Exploring Deep State Spaces via Fuzzing** (2020)
 * **Fuzzing JavaScript Engines with Aspect-preserving Mutation** (2020)
 * **Full-Speed Fuzzing: Reducing Fuzzing Overhead through Coverage-Guided Tracing** (2019)
+* **ProFuzzer: On-the-fly Input Type Probing for Better Zero-day Vulnerability Discovery** (2019)
 * **Fuzzing File Systems via Two-Dimensional Input Space Exploration** (2018)
 * **Angora: Efficient Fuzzing by Principled Search** (2018)
 * **T-Fuzz: Fuzzing by Program Transformation** (2018)
-* **ProFuzzer: On-the-fly Input Type Probing for Better Zero-day Vulnerability Discovery** (2018)
 * **CollAFL: Path Sensitive Fuzzing** (2018)
 * **Skyfire: Data-driven seed generation for fuzzing** (2017)
 
