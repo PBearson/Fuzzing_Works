@@ -23,6 +23,7 @@ I did not co-author, and do not own the rights to, any of the papers in this rep
 
 ### ACM Conference on Computer and Communications Security (CCS)
 
+* **Regression greybox fuzzing** (2021)
 * **FREEDOM: Engineering a State-of-the-Art DOM Fuzzer** (2020)
 * **Matryoshka: fuzzing deeply nested branches** (2019)
 * **Intriguer: Field-Level Constraint Solving for Hybrid Fuzzing** (2019)
