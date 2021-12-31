@@ -40,6 +40,7 @@ I did not co-author, and do not own the rights to, any of the papers in this rep
 
 ### USENIX Security Symposium
 
+* **NYX: Greybox Hypervisor Fuzzing using Fast Snapshots and Affine Types** (2021)
 * **Constraint-guided Directed Greybox Fuzzing** (2021)
 * **ICSFuzz: Manipulating I/Os and Repurposing Binary Code to Enable Instrumented Fuzzing in ICS Control Applications** (2021)
 * **Breaking Through Binaries: Compiler-quality Instrumentation for Better Binary-only Fuzzing** (2021)
