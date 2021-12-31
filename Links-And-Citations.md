@@ -47,7 +47,8 @@ Note: Last updated November 2021.
 | [HFL](https://www.ndss-symposium.org/ndss-paper/hfl-hybrid-fuzzing-on-the-linux-kernel/) | NDSS | 2020 | 16 |
 | [TortoiseFuzz](https://www.ndss-symposium.org/ndss-paper/not-all-coverage-measurements-are-equal-fuzzing-by-coverage-accounting-for-input-prioritization/) | NDSS | 2020 | 22 |
 | [HotFuzz](https://www.ndss-symposium.org/ndss-paper/hotfuzz-discovering-algorithmic-denial-of-service-vulnerabilities-through-guided-micro-fuzzing/) | NDSS | 2020 | 11 |
-| [REDQUEEN](https://www.ndss-symposium.org/ndss-paper/redqueen-fuzzing-with-input-to-state-correspondence/) | NDSS | 2019 | 117
+| [HYPER-CUBE](https://www.ndss-symposium.org/ndss-paper/hyper-cube-high-dimensional-hypervisor-fuzzing/) | NDSS | 2020 | 14 |
+| [REDQUEEN](https://www.ndss-symposium.org/ndss-paper/redqueen-fuzzing-with-input-to-state-correspondence/) | NDSS | 2019 | 117 |
 | [IOTFUZZER](ndss-symposium.org/wp-content/uploads/2018/02/ndss2018_01A-1_Chen_paper.pdf) | NDSS | 2018 | 176 |
 | [WYCINWYC](https://www.ndss-symposium.org/wp-content/uploads/2018/02/ndss2018_01A-4_Muench_paper.pdf) | NDSS | 2018 | 116 |
 | [VUzzer](https://www.ndss-symposium.org/ndss2017/ndss-2017-programme/vuzzer-application-aware-evolutionary-fuzzing/) | NDSS | 2017 | 443 |
