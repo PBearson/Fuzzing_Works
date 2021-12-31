@@ -63,6 +63,7 @@ I did not co-author, and do not own the rights to, any of the papers in this rep
 * **HFL: Hybrid Fuzzing on the Linux Kernel** (2020)
 * **Not All Coverage Measurements Are Equal: Fuzzing by Coverage Accounting for Input Prioritization** (2020)
 * **HotFuzz: Discovering Algorithmic Denial-of-Service Vulnerabilities Through Guided Micro-Fuzzing** (2020)
+* **HYPER-CUBE: High-Dimensional Hypervisor Fuzzing** (2020)
 * **REDQUEEN: Fuzzing with Input-to-State Correspondence** (2019)
 * **IoTFuzzer: Discovering Memory Corruptions in IoT Through App-based Fuzzing** (2018)
 * **What You Corrupt Is Not What You Crash: Challenges in Fuzzing Embedded Devices** (2018)
