@@ -15,3 +15,9 @@ Blair, W., Mambretti, A., Arshad, S., Weissbacher, M., Robertson, W.K., Kirda, E
 TODO.
 
 <hr/>
+
+Schumilo, S., Aschermann, C., Abbasi, A., Wörner, S., & Holz, T. (2020, February). HYPER-CUBE: High-Dimensional Hypervisor Fuzzing. In NDSS.
+
+SUMMARY: TODO.
+
+<hr/>
